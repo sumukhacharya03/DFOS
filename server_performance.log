@@ -1,0 +1,34 @@
+2024-11-20 01:34:14,903 - INFO: Server started. Initializing performance tracking.
+2024-11-20 01:34:21,367 - INFO: New connection from ('127.0.0.1', 38790)
+2024-11-20 01:34:21,368 - INFO: Active Connections: 1
+2024-11-20 01:34:28,344 - INFO: New connection from ('127.0.0.1', 51920)
+2024-11-20 01:34:28,344 - INFO: Active Connections: 2
+2024-11-20 01:34:35,297 - WARNING: Authentication failed for user user1
+2024-11-20 01:34:40,790 - INFO: Authentication Successful for user user1
+2024-11-20 01:34:49,453 - WARNING: Authentication failed for user user2
+2024-11-20 01:34:52,583 - WARNING: Authentication failed for user user2
+2024-11-20 01:34:56,215 - WARNING: Authentication failed for user user2
+2024-11-20 01:34:56,215 - ERROR: Multiple failed authentication attempts for user user2
+2024-11-20 01:34:56,215 - INFO: Connection from ('127.0.0.1', 51920) closed.
+2024-11-20 01:35:03,567 - INFO: New connection from ('127.0.0.1', 56032)
+2024-11-20 01:35:03,568 - INFO: Active Connections: 2
+2024-11-20 01:35:09,451 - INFO: Authentication Successful for user user2
+2024-11-20 01:35:26,479 - INFO: File upload completed: loglistener.txt, User: user1, Size: 13369 bytes, Duration: 3.54s
+2024-11-20 01:35:39,338 - INFO: Handling preview request for random.txt by user user1
+2024-11-20 01:35:39,543 - INFO: Successfully completed preview for random.txt by user user1
+2024-11-20 01:36:18,304 - INFO: Handling download request for random.txt by user user1
+2024-11-20 01:36:18,517 - INFO: Successfully completed download for random.txt by user user1
+2024-11-20 01:36:35,078 - INFO: File loglistener.txt deleted for user user1
+2024-11-20 01:36:44,544 - INFO: File upload completed: os_ass4_1.c, User: user2, Size: 702 bytes, Duration: 4.06s
+2024-11-20 01:37:09,021 - INFO: File upload completed: loglistener.txt, User: user2, Size: 13369 bytes, Duration: 4.12s
+2024-11-20 01:37:19,673 - INFO: File loglistener.txt deleted for user user2
+2024-11-20 01:37:22,305 - INFO: User user2 exited.
+2024-11-20 01:37:22,306 - INFO: Connection from ('127.0.0.1', 56032) closed.
+2024-11-20 01:37:26,407 - INFO: User user1 exited.
+2024-11-20 01:37:26,407 - INFO: Connection from ('127.0.0.1', 38790) closed.
+2024-11-20 01:37:31,130 - INFO: 
+Server shutdown initiated.
+2024-11-20 01:37:31,131 - INFO: Total Connections: 3
+2024-11-20 01:37:31,131 - INFO: Active Connections: 0
+2024-11-20 01:37:31,131 - INFO: File Transfers: 3
+2024-11-20 01:37:31,132 - INFO: Final System Resources - CPU: 3.0%, Memory: 58.7%
