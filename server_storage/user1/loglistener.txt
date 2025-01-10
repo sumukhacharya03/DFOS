@@ -1,0 +1,203 @@
+00:00.344	ID:8	Rime started with address 0.18.116.8.0.8.8.8
+00:00.352	ID:8	MAC 00:12:74:08:00:08:08:08 Contiki 3.0 started. Node id is set to 8.
+00:00.361	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.372	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7408:0008:0808
+00:00.374	ID:8	Starting 'Backup Node Process'
+00:00.462	ID:11	Rime started with address 0.18.116.11.0.11.11.11
+00:00.471	ID:11	MAC 00:12:74:0b:00:0b:0b:0b Contiki 3.0 started. Node id is set to 11.
+00:00.479	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.490	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740b:000b:0b0b
+00:00.492	ID:11	Starting 'Backup Node Process'
+00:00.507	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.516	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki 3.0 started. Node id is set to 2.
+00:00.522	ID:6	Rime started with address 0.18.116.6.0.6.6.6
+00:00.524	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.530	ID:6	MAC 00:12:74:06:00:06:06:06 Contiki 3.0 started. Node id is set to 6.
+00:00.535	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.537	ID:2	Starting 'Sender Process'
+00:00.539	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.550	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7406:0006:0606
+00:00.552	ID:6	Starting 'Central Node Process'
+00:00.620	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+00:00.628	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki 3.0 started. Node id is set to 4.
+00:00.636	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.647	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+00:00.649	ID:4	Starting 'Sender Process'
+00:00.653	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:00.662	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki 3.0 started. Node id is set to 1.
+00:00.670	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.673	ID:7	Rime started with address 0.18.116.7.0.7.7.7
+00:00.681	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:00.681	ID:7	MAC 00:12:74:07:00:07:07:07 Contiki 3.0 started. Node id is set to 7.
+00:00.683	ID:1	Starting 'Sender Process'
+00:00.690	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.701	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7407:0007:0707
+00:00.703	ID:7	Starting 'Backup Node Process'
+00:00.828	ID:10	Rime started with address 0.18.116.10.0.10.10.10
+00:00.837	ID:10	MAC 00:12:74:0a:00:0a:0a:0a Contiki 3.0 started. Node id is set to 10.
+00:00.845	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.856	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740a:000a:0a0a
+00:00.858	ID:10	Starting 'Backup Node Process'
+00:00.980	ID:9	Rime started with address 0.18.116.9.0.9.9.9
+00:00.986	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+00:00.988	ID:9	MAC 00:12:74:09:00:09:09:09 Contiki 3.0 started. Node id is set to 9.
+00:00.995	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki 3.0 started. Node id is set to 5.
+00:00.997	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.003	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.008	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7409:0009:0909
+00:01.010	ID:9	Starting 'Backup Node Process'
+00:01.014	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+00:01.016	ID:5	Starting 'Sender Process'
+00:01.171	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+00:01.179	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki 3.0 started. Node id is set to 3.
+00:01.187	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.198	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+00:01.200	ID:3	Starting 'Sender Process'
+00:20.371	ID:8	Backup node inactive. Not sending data.
+00:20.621	ID:11	Backup node inactive. Not sending data.
+00:20.700	ID:7	Backup node inactive. Not sending data.
+00:20.854	ID:10	Backup node inactive. Not sending data.
+00:21.006	ID:9	Backup node inactive. Not sending data.
+00:30.536	ID:2	Time: 3845, Sender sending data: Sensor data
+00:30.648	ID:4	Time: 3845, Sender sending data: Sensor data
+00:30.682	ID:1	Time: 3845, Sender sending data: Sensor data
+00:31.015	ID:5	Time: 3845, Sender sending data: Sensor data
+00:31.199	ID:3	Time: 3845, Sender sending data: Sensor data
+00:40.371	ID:8	Backup node inactive. Not sending data.
+00:40.488	ID:11	Backup node inactive. Not sending data.
+00:40.700	ID:7	Backup node inactive. Not sending data.
+00:40.854	ID:10	Backup node inactive. Not sending data.
+00:41.006	ID:9	Backup node inactive. Not sending data.
+01:00.371	ID:8	Backup node inactive. Not sending data.
+01:00.489	ID:11	Backup node inactive. Not sending data.
+01:00.536	ID:2	Time: 7685, Sender sending data: Sensor data
+01:00.648	ID:4	Time: 7685, Sender sending data: Sensor data
+01:00.682	ID:1	Time: 7685, Sender sending data: Sensor data
+01:00.700	ID:7	Backup node inactive. Not sending data.
+01:00.855	ID:10	Backup node inactive. Not sending data.
+01:01.007	ID:9	Backup node inactive. Not sending data.
+01:01.015	ID:5	Time: 7685, Sender sending data: Sensor data
+01:01.199	ID:3	Time: 7685, Sender sending data: Sensor data
+01:20.371	ID:8	Backup node inactive. Not sending data.
+01:20.621	ID:11	Backup node inactive. Not sending data.
+01:20.700	ID:7	Backup node inactive. Not sending data.
+01:20.854	ID:10	Backup node inactive. Not sending data.
+01:21.006	ID:9	Backup node inactive. Not sending data.
+01:30.536	ID:2	Time: 11525, Sender sending data: Sensor data
+01:30.648	ID:4	Time: 11525, Sender sending data: Sensor data
+01:30.682	ID:1	Time: 11525, Sender sending data: Sensor data
+01:31.015	ID:5	Time: 11525, Sender sending data: Sensor data
+01:31.199	ID:3	Time: 11525, Sender sending data: Sensor data
+01:40.371	ID:8	Backup node inactive. Not sending data.
+01:40.488	ID:11	Backup node inactive. Not sending data.
+01:40.700	ID:7	Backup node inactive. Not sending data.
+01:40.854	ID:10	Backup node inactive. Not sending data.
+01:41.006	ID:9	Backup node inactive. Not sending data.
+02:00.371	ID:8	Backup node inactive. Not sending data.
+02:00.489	ID:11	Backup node inactive. Not sending data.
+02:00.536	ID:2	Time: 15365, Sender sending data: Sensor data
+02:00.541	ID:2	Fault simulation: Sender activity toggled to 0
+02:00.553	ID:6	Time: 15365, Central Node: Sender inactive. Sending activation message to backup nodes.
+02:00.560	ID:6	Time: 15366, Central Node: Sending activation message to backup nodes.
+02:00.568	ID:6	Time: 15367, Central Node: Fault simulated. Sender set to inactive.
+02:00.648	ID:4	Time: 15365, Sender sending data: Sensor data
+02:00.653	ID:4	Fault simulation: Sender activity toggled to 0
+02:00.682	ID:1	Time: 15365, Sender sending data: Sensor data
+02:00.687	ID:1	Fault simulation: Sender activity toggled to 0
+02:00.700	ID:7	Backup node inactive. Not sending data.
+02:00.855	ID:10	Backup node inactive. Not sending data.
+02:01.007	ID:9	Backup node inactive. Not sending data.
+02:01.015	ID:5	Time: 15365, Sender sending data: Sensor data
+02:01.020	ID:5	Fault simulation: Sender activity toggled to 0
+02:01.071	ID:7	Time: 15412, Backup node activated. Fault count: 1
+02:01.102	ID:10	Time: 15396, Backup node activated. Fault count: 1
+02:01.109	ID:11	Time: 15444, Backup node activated. Fault count: 1
+02:01.118	ID:8	Time: 15460, Backup node activated. Fault count: 1
+02:01.129	ID:9	Time: 15380, Backup node activated. Fault count: 1
+02:01.199	ID:3	Time: 15365, Sender sending data: Sensor data
+02:01.204	ID:3	Fault simulation: Sender activity toggled to 0
+02:20.373	ID:8	Time: 17925, Backup node sending data: Backup data
+02:20.623	ID:11	Time: 17942, Backup node sending data: Backup data
+02:20.702	ID:7	Time: 17925, Backup node sending data: Backup data
+02:20.857	ID:10	Time: 17925, Backup node sending data: Backup data
+02:21.009	ID:9	Time: 17925, Backup node sending data: Backup data
+02:30.534	ID:2	Sender inactive. Not sending data.
+02:30.646	ID:4	Sender inactive. Not sending data.
+02:30.680	ID:1	Sender inactive. Not sending data.
+02:31.013	ID:5	Sender inactive. Not sending data.
+02:31.197	ID:3	Sender inactive. Not sending data.
+02:40.373	ID:8	Time: 20485, Backup node sending data: Backup data
+02:40.491	ID:11	Time: 20485, Backup node sending data: Backup data
+02:40.702	ID:7	Time: 20485, Backup node sending data: Backup data
+02:40.857	ID:10	Time: 20485, Backup node sending data: Backup data
+02:41.009	ID:9	Time: 20485, Backup node sending data: Backup data
+03:00.373	ID:8	Time: 23045, Backup node sending data: Backup data
+03:00.491	ID:11	Time: 23045, Backup node sending data: Backup data
+03:00.534	ID:2	Sender inactive. Not sending data.
+03:00.553	ID:6	Time: 23045, Central Node: Sender inactive. Sending activation message to backup nodes.
+03:00.560	ID:6	Time: 23046, Central Node: Sending activation message to backup nodes.
+03:00.646	ID:4	Sender inactive. Not sending data.
+03:00.680	ID:1	Sender inactive. Not sending data.
+03:00.702	ID:7	Time: 23045, Backup node sending data: Backup data
+03:00.857	ID:10	Time: 23045, Backup node sending data: Backup data
+03:01.009	ID:9	Time: 23045, Backup node sending data: Backup data
+03:01.013	ID:5	Sender inactive. Not sending data.
+03:01.197	ID:3	Sender inactive. Not sending data.
+03:01.351	ID:10	Time: 23108, Backup node activated. Fault count: 1
+03:01.361	ID:11	Time: 23156, Backup node activated. Fault count: 1
+03:01.367	ID:8	Time: 23172, Backup node activated. Fault count: 1
+03:01.375	ID:9	Time: 23091, Backup node activated. Fault count: 1
+03:01.443	ID:7	Time: 23139, Backup node activated. Fault count: 1
+03:20.373	ID:8	Time: 25605, Backup node sending data: Backup data
+03:20.623	ID:11	Time: 25622, Backup node sending data: Backup data
+03:20.702	ID:7	Time: 25605, Backup node sending data: Backup data
+03:20.857	ID:10	Time: 25605, Backup node sending data: Backup data
+03:21.009	ID:9	Time: 25605, Backup node sending data: Backup data
+03:30.534	ID:2	Sender inactive. Not sending data.
+03:30.646	ID:4	Sender inactive. Not sending data.
+03:30.680	ID:1	Sender inactive. Not sending data.
+03:31.013	ID:5	Sender inactive. Not sending data.
+03:31.197	ID:3	Sender inactive. Not sending data.
+03:40.373	ID:8	Time: 28165, Backup node sending data: Backup data
+03:40.491	ID:11	Time: 28165, Backup node sending data: Backup data
+03:40.702	ID:7	Time: 28165, Backup node sending data: Backup data
+03:40.857	ID:10	Time: 28165, Backup node sending data: Backup data
+03:41.009	ID:9	Time: 28165, Backup node sending data: Backup data
+04:00.373	ID:8	Time: 30725, Backup node sending data: Backup data
+04:00.491	ID:11	Time: 30725, Backup node sending data: Backup data
+04:00.534	ID:2	Sender inactive. Not sending data.
+04:00.537	ID:2	Fault simulation: Sender activity toggled to 1
+04:00.553	ID:6	Time: 30725, Central Node: Sender inactive. Sending activation message to backup nodes.
+04:00.560	ID:6	Time: 30726, Central Node: Sending activation message to backup nodes.
+04:00.568	ID:6	Time: 30727, Central Node: Fault simulated. Sender set to inactive.
+04:00.646	ID:4	Sender inactive. Not sending data.
+04:00.649	ID:4	Fault simulation: Sender activity toggled to 1
+04:00.680	ID:1	Sender inactive. Not sending data.
+04:00.683	ID:1	Fault simulation: Sender activity toggled to 1
+04:00.702	ID:7	Time: 30725, Backup node sending data: Backup data
+04:00.857	ID:10	Time: 30725, Backup node sending data: Backup data
+04:01.009	ID:9	Time: 30725, Backup node sending data: Backup data
+04:01.013	ID:5	Sender inactive. Not sending data.
+04:01.016	ID:5	Fault simulation: Sender activity toggled to 1
+04:01.197	ID:3	Sender inactive. Not sending data.
+04:01.200	ID:3	Fault simulation: Sender activity toggled to 1
+04:01.352	ID:10	Time: 30788, Backup node activated. Fault count: 1
+04:01.360	ID:11	Time: 30836, Backup node activated. Fault count: 1
+04:01.368	ID:8	Time: 30852, Backup node activated. Fault count: 1
+04:01.376	ID:9	Time: 30772, Backup node activated. Fault count: 1
+04:01.447	ID:7	Time: 30820, Backup node activated. Fault count: 1
+04:20.373	ID:8	Time: 33285, Backup node sending data: Backup data
+04:20.623	ID:11	Time: 33302, Backup node sending data: Backup data
+04:20.702	ID:7	Time: 33285, Backup node sending data: Backup data
+04:20.857	ID:10	Time: 33285, Backup node sending data: Backup data
+04:21.009	ID:9	Time: 33285, Backup node sending data: Backup data
+04:30.536	ID:2	Time: 34565, Sender sending data: Sensor data
+04:30.648	ID:4	Time: 34565, Sender sending data: Sensor data
+04:30.682	ID:1	Time: 34565, Sender sending data: Sensor data
+04:31.015	ID:5	Time: 34565, Sender sending data: Sensor data
+04:31.199	ID:3	Time: 34565, Sender sending data: Sensor data
+04:40.373	ID:8	Time: 35845, Backup node sending data: Backup data
+04:40.491	ID:11	Time: 35845, Backup node sending data: Backup data
+04:40.702	ID:7	Time: 35845, Backup node sending data: Backup data
+04:40.857	ID:10	Time: 35845, Backup node sending data: Backup data
+04:41.009	ID:9	Time: 35845, Backup node sending data: Backup data
