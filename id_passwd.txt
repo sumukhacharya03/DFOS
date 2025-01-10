@@ -1,0 +1,3 @@
+user1:password123
+user2:mysecurepass
+user3:testpassword
