@@ -31,3 +31,8 @@ As part of future development, the following features can be added:
 - **SSL/TLS Support**: For secure communication between the client and server.
 - **Logging and Auditing**: To track client actions and server performance over time.
 - **Thread-based Implementation**: Instead of forking processes, a thread-based approach could be explored for more efficient resource management.
+
+# Co-Authors:
+- Vandana J - vandanaj0110@gmail.com
+- V Shreya Sivani - vshreyasivani@gmail.com
+- Trishita Umapathi - trishitaumapathi@gmail.com
