@@ -3,7 +3,7 @@ Distributed File Orchestration and Synchronization: Multi-Node Data-Transfer-Fra
 
 # Overview of the Project:
 
-We designed and implemented a multi-client file transfer system using a client-server model in Python. The server can handle multiple clients simultaneously. The server should allow the clients to upload, download, view, and delete files from a server-side directory, and respond to multiple concurrent requests without crashing or losing data.
+We designed and implemented a multi-client file transfer system using a client-server model in Python. The server can handle multiple clients simultaneously. The server allows the clients to upload, download, view, and delete files from a server-side directory, and respond to multiple concurrent requests without crashing or losing data.
 
 ![image](https://github.com/user-attachments/assets/9ce97213-99bc-42c2-8a3a-c982df705d71)
 
