@@ -1,38 +1,59 @@
-# DFOS
-Distributed File Orchestration and Synchronization: Multi-Node Data-Transfer-Framework for Linux
+# DFOS: Distributed File Orchestration and Synchronization
 
-# Overview of the Project:
+A multi-client file transfer system built with Python, featuring a robust client-server architecture for handling concurrent file operations.
 
-We designed and implemented a multi-client file transfer system using a client-server model in Python. The server can handle multiple clients simultaneously. The server allows the clients to upload, download, view, and delete files from a server-side directory, and respond to multiple concurrent requests without crashing or losing data.
+## Architechture
 
-![image](https://github.com/user-attachments/assets/9ce97213-99bc-42c2-8a3a-c982df705d71)
-
-# Background:
-
-Modern file transfer systems, such as FTP(File Transfer Protocol), are widely used for transferring data between clients and servers in networked environments. Such systems need to support various functionalities like user authentication, file uploading, downloading, and secure data management. Additionally, the system must handle multiple clients simultaneously without sacrificing performance or data integrity. 
+<img width="579" height="104" alt="image" src="https://github.com/user-attachments/assets/31d7bff5-edae-4666-8ca9-ed3adab31066" />
 
 
-# What are we doing in this Project?
+## Features
 
-- Authenticate clients based on a predefined list of usernames and passwords.
-- Allow authenticated clients to perform the following actions:
-  - **Upload Files**:  After authenticating, a client can upload a file to the server by providing the file name. The server should save the file in a directory specific to the client (e.g., /server_storage/<username>).
-  - **Download Files**: The client can request a file to download from their directory on the server. If the file exists, the server should send it; otherwise, an error message is returned
-  - **View Files**: The client can request a preview of the first 1024 bytes of any file in their directory.
-  - **Delete Files**: The client can delete any file from their directory. Upon successful deletion, the server should confirm the operation.
-  - **List Files**: Clients can request a list of all files stored in their directory. The server should send a list of file names in that directory.
-- Handle multiple clients concurrently, without interference between them.
-- Support a robust signal handling mechanism that ensures the server can safely shut down while maintaining data integrity.
+* **User Authentication:** Secure client login based on a predefined username and password list.
+* **Concurrent Client Handling:** Uses a thread pool to manage multiple client connections simultaneously without data loss.
+* **User-Specific Storage:** Automatically creates and manages a dedicated storage directory for each authenticated user.
+* **File Operations:**
+    * **Upload:** Securely upload files to the user's dedicated directory.
+    * **Download:** Download files from the server.
+    * **Preview:** View the first 1024 bytes of a file without downloading the entire content.
+    * **Delete:** Remove files from the user's server-side directory.
+* **Performance Logging:** Tracks server performance, including connections and file transfer metrics, to a log file.
+* **Graceful Shutdown:** A signal handler ensures the server can shut down safely, logging final performance stats.
 
-# Future Work:
+## Technologies Used
 
-As part of future development, the following features can be added:
+* **Python 3**
+* **socket:** For core network communication.
+* **threading & `ThreadPoolExecutor`:** For handling multiple clients concurrently.
+* **os:** For file system operations on the server.
+* **logging:** For detailed performance and event logging.
+* **psutil:** To monitor system resources (CPU/Memory) on shutdown.
 
-- **SSL/TLS Support**: For secure communication between the client and server.
-- **Logging and Auditing**: To track client actions and server performance over time.
-- **Thread-based Implementation**: Instead of forking processes, a thread-based approach could be explored for more efficient resource management.
+## Running the System
 
-# Co-Authors:
-- Vandana J - vandanaj0110@gmail.com
-- V Shreya Sivani - vshreyasivani@gmail.com
-- Trishita Umapathi - trishitaumapathi@gmail.com
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/sumukhacharya03/DFOS.git
+    cd DFOS
+    ```
+
+2.  **Configure Users:**
+    Edit the `id_passwd.txt` file to add or change user credentials.
+    ```
+    user1:password123
+    user2:newpassword
+    ```
+
+3.  **Start the Server:**
+    Open a terminal and run the server script.
+    ```bash
+    python server.py
+    ```
+    The server will start listening on port 5000.
+
+4.  **Run the Client:**
+    Open a second terminal to run the client.
+    ```bash
+    python client.py
+    ```
+    You will be prompted for your username and password to connect.
