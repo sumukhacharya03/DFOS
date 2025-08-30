@@ -51,7 +51,13 @@ A multi-client file transfer system built with Python, featuring a robust client
     ```
     The server will start listening on port 5000.
 
-4.  **Run the Client:**
+## Co-Authors
+
+1. Vandana J
+2. V Shreya Sivani
+3. Trishita Umapathi
+
+5.  **Run the Client:**
     Open a second terminal to run the client.
     ```bash
     python client.py
