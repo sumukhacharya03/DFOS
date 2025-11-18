@@ -57,9 +57,3 @@ A multi-client file transfer system built with Python, featuring a robust client
     python client.py
     ```
     You will be prompted for your username and password to connect.
-
-## Co-Authors
-
-1. Vandana J
-2. V Shreya Sivani
-3. Trishita Umapathi
